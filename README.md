@@ -44,7 +44,3 @@ Dr. Mark Hooper joined the Turing as a Technical Development Manager in June 202
 ### Gregory Epiphaniou
 
 Dr. Gregory Epiphaniou is an Associate Professor of security engineering at the University of Warwick. He conducts research in wireless communications, focusing on crypto-key generation and has led and contributed to several research projects. He has over 120 international publications, and several industry certifications, and has worked with the UK MoD on cybersecurity-related projects with research and consultancy funding attracted over £20M. He is also a subject matter expert for the Chartered Institute for Securities and Investments.
-
-## Acknowledgement
-
-The authors would also like to thank Jagdish Hariharan for assisting towards the development of this work.
