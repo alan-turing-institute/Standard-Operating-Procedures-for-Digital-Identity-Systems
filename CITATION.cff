@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this project in your research, please cite it using the following metadata."
+title: "Standard Operating Procedures for Digital Identity Systems"
+authors:
+  - family-names: "Maple"
+    given-names: "Carsten"
+    affiliation: "The Alan Turing Institute"
+    orcid: "https://orcid.org/0000-0002-4715-212X"
+  - family-names: "Sheik"
+    given-names: "Al Tariq"
+    affiliation: "The Alan Turing Institute"
+    orcid: "https://orcid.org/0000-0002-6701-3354"
+  - family-names: "Hooper"
+    given-names: "Mark"
+    affiliation: "The Alan Turing Institute"
+    orcid: "https://orcid.org/0000-0002-1440-7181"
+  - family-names: "Epiphaniou"
+    given-names: "Gregory"
+    affiliation: "The Alan Turing Institute"
+    orcid: "https://orcid.org/0000-0003-1054-6368"
+abstract: "A set of standard operating procedures (SOPs) designed to ensure secure, privacy-preserving, and reliable digital identity systems."
+repository: "https://github.com/alan-turing-institute/Standard-Operating-Procedures-for-Digital-Identity-Systems"
+date-released: "2024-09-16" 
+license: "MIT"
+keywords:
+  - Digital Identity
+  - Standard Operating Procedures
+  - Cybersecurity
+  - Privacy
+  - Trustworthy Systems
+doi: "10.5281/zenodo.14179018"
+preferred-citation:
+  type: "report"
+  title: "Standard Operating Procedures for Digital Identity Systems"
+  version: "1.0.0"
+  url: "https://github.com/alan-turing-institute/Standard-Operating-Procedures-for-Digital-Identity-Systems"
