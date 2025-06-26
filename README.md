@@ -1,6 +1,6 @@
 # Standard Operating Procedures for Digital Identity Systems
 ### Carsten Maple, Al Tariq Sheik, Mark Hooper, Gregory Epiphaniou
-##### cm@warwick.ac.uk, asheik@turing.ac.uk, mhooper@turing.ac.uk, gregory.epiphaniou@warwick.ac.uk
+##### cm@warwick.ac.uk, t.sheik@warwick.ac.uk, mhooper@turing.ac.uk, gregory.epiphaniou@warwick.ac.uk
 
 # Introduction
 Governments around the world are committed to supporting the roll out of national digital IDs, but there are privacy and security implications associated with scaling these systems at a national level. Responsible implementation of ID services is a critical enabler for financial inclusion; it enables access to services and enactment of civil rights. According to the World Bank, more than one billion people are currently living without an official digital identity.
