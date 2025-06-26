@@ -17,7 +17,7 @@ The aim of this work is to design SOPs that support a state-of-the-art Digital I
 2.	Authentication – The mechanisms for approving the identity of an applicant or a claimant.
 3.	DID Lifecycle Management – The recording, maintenance and management of the DID account holder.
 
-These SOPs are subject to further improvements and provides an approach to developing Trustworthy Digital Identity System. For suggestions and collaboration, please contact cm@warwick.ac.uk and asheik@turing.ac.uk.
+These SOPs are subject to further improvements and provides an approach to developing Trustworthy Digital Identity System. For suggestions and collaboration, please contact cm@warwick.ac.uk and t.sheik@warwick.ac.uk.
 
  
 # Sponsor
